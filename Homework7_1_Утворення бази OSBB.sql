@@ -1,0 +1,1 @@
+CREATE SCHEMA `osbb_2` ;
